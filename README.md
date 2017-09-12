@@ -9,7 +9,7 @@ Quize from Udacity
  * Log the fahrenheit variable to the console.
  *
  */
-
+// Here is the answer
 var celsius = 12;
 var fahrenheit = celsius * 1.8 + 32;/* convert celsius to fahrenheit here */
 
